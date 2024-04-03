@@ -11,7 +11,7 @@ Estoy trabajando para desarrollar mis propios proyectos 😄
 ## Contacto
 ¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes plataformas:
 
-- [LinkedIn](https://www.linkedin.com/in/franciscomedinilla): Tu perfil de LinkedIn.
+- [LinkedIn](https://www.linkedin.com/in/franciscomedinilla): Mi perfil de LinkedIn.
 - [Sitio web](https://fmedinilla.com): Mi sitio web personal (trabajando en ello 😄)
 
 ¡Gracias por visitar mi perfil!
