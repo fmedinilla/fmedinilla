@@ -1,16 +1,17 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Francisco Medinilla
 
-<!--
-**fmedinilla/fmedinilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la tecnología y un entusiasta del código abierto. Me encanta explorar nuevas tecnologías, resolver problemas y colaborar en proyectos interesantes.
 
-Here are some ideas to get you started:
+- 🎓 Actualmente estoy estudiando Ingenieria Informática en la UOC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+Estoy trabajando para desarrollar mis propios proyectos 😄
+
+## Contacto
+¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes plataformas:
+
+- [LinkedIn](https://www.linkedin.com/in/franciscomedinilla): Tu perfil de LinkedIn.
+- [Sitio web](https://fmedinilla.com): Mi sitio web personal (trabajando en ello 😄)
+
+¡Gracias por visitar mi perfil!
