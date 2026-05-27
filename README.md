@@ -12,5 +12,6 @@ Estoy trabajando para desarrollar mis propios proyectos 😄
 ¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes plataformas:
 
 - [LinkedIn](https://www.linkedin.com/in/franciscomedinilla): Mi perfil de LinkedIn.
+- [Portfolio](https://fmedinilla.netlify.app): Mi portfolio.
 
 ¡Gracias por visitar mi perfil!
